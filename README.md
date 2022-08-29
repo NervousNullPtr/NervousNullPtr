@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**NervousNullPtr/NervousNullPtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://hit.yhype.me/github/profile?user_id=52111185)
+<a href="https://github.com/LibRapid/LibRapidRust">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nervousnullptr&repo=libreapidrust&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/NervousNullPtr/Von-Vektoren-und-Polynomen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nervousnullptr&repo=SymboMath&theme=radical&hide_border=true" />
+</a>
+<br><br>
+<a href="https://github.com/NervousNullPtr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nervousnullptr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+</a><a href="https://github.com/NervousNullPtr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervousnullptr&theme=radical&style=compact&hide=JavaScript,HTML,CSS,Roff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&langs_count=3" />
+  </a>
+<br><br>
