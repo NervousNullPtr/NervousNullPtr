@@ -3,7 +3,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nervousnullptr&repo=librapidrust&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/NervousNullPtr/Von-Vektoren-und-Polynomen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nervousnullptr&repo=SymboMath&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nervousnullptr&repo=von-vektoren-und-polynomen&theme=radical&hide_border=true" />
 </a>
 <br><br>
 <a href="https://github.com/NervousNullPtr">
