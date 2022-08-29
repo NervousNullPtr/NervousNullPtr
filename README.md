@@ -1,6 +1,6 @@
 ![](https://hit.yhype.me/github/profile?user_id=52111185)
 <a href="https://github.com/LibRapid/LibRapidRust">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nervousnullptr&repo=libreapidrust&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nervousnullptr&repo=librapidrust&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/NervousNullPtr/Von-Vektoren-und-Polynomen">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nervousnullptr&repo=SymboMath&theme=radical&hide_border=true" />
