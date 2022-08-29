@@ -1,4 +1,4 @@
-![](https://hit.yhype.me/github/profile?user_id=52111185)
+![](https://hit.yhype.me/github/profile?user_id=57870403)
 <a href="https://github.com/LibRapid/LibRapidRust">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=librapid&repo=librapidrust&theme=radical&hide_border=true" />
 </a>
