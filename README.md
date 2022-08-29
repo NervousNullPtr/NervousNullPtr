@@ -9,6 +9,6 @@
 <a href="https://github.com/NervousNullPtr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nervousnullptr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
 </a><a href="https://github.com/NervousNullPtr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervousnullptr&theme=radical&style=compact&hide=JavaScript,HTML,CSS,Roff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervousnullptr&theme=radical&style=compact&hide=JavaScript,HTML,CSS,Roff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&langs_count=3&include_forks=true" />
   </a>
 <br><br>
