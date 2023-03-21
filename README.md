@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Microsoft Visual Studio Code"></a>
+    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Microsoft Visual Studio Code"></a>
     <a href="https://libreoffice.org/"><img src="https://img.shields.io/badge/LibreOffice-18a303?style=for-the-badge&logo=LibreOffice&logoColor=white" alt="LibreOffice"></a>
     <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch%20Linux-1794d1?style=for-the-badge&logo=Arch%20Linux&logoColor=white" alt="Arch Linux"></a>
     <br>
