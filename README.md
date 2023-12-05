@@ -18,8 +18,6 @@
 <br>
 <br>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nervousnullptr&show_icons=true&theme=codeSTACKr&include_all_commits=true&orgs=LibRapid,VirtualVeteranRacing" href="https://github.com/Nervousnullptr" alt="GitHub Stats"/></div>
-
 # My Projects
 <div align="center">
     <div styles=".row{flex:33.33%;padding:5px;} .column{display:flex;}" class="row">
