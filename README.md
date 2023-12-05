@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX">
 
 </div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nervousnullptr&size_weight=0.5&count_weight=0.5)
 <br>
 <br>
 
